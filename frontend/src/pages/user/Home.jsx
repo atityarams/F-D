@@ -7,7 +7,7 @@ function Home() {
             <h1>Welcome to Art Store</h1>
 
             <p>
-                Explore beautiful art drawings and handcrafted products.
+                Explore art drawings and handcrafted products.
             </p>
 
         </div>
