@@ -59,7 +59,7 @@ function Home() {
                     </h2>
                     <ul style={{ paddingLeft: '20px', lineHeight: '1.8' }}>
                         <li>
-                            <strong>Infinite Patience:</strong> Vital training to help you tolerate people while hand-squeezing citrus.
+                            <strong>Hospital Patients:</strong> Immediate access to real, live clinical test subjects waiting for their vitamin C dose
                         </li>
                         <li>
                             <strong>The Professional Fruit Squishing Method™:</strong> Channeling all your life's existential rage directly into the sweet lime for maximum flavor extraction.
