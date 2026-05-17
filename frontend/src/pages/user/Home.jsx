@@ -4,10 +4,10 @@ function Home() {
 
         <div>
 
-            <h1>Welcome to Art Store</h1>
+            <h1>Welcome to Aaswitha's VaangaJuicePodalam Series</h1>
 
             <p>
-                Explore art drawings and handcrafted products.
+                Explore hard working, women who is afraid of dark's[dog's] products.
             </p>
 
         </div>
