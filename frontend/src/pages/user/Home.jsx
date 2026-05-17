@@ -1,33 +1,30 @@
 function Home() {
-
     return (
-
         <div style={{ padding: '20px' }}>
+            <h1>Aaswitha's VaangaJuicePodalam Series</h1>
 
-            <h1>Aaswitha's VaangaJuicePodalam 
-                Series</h1>
+            <p>Explore hard working, women.</p>
 
-            <p>
-                Explore hard working, women.
+            <div>
+                <strong>Venue:</strong> Amaravathi <br />
+                <strong>Fee (1 month):</strong> ₹1000
+            </div>
 
-                Venu -> Amaravthi
+            ### Prerequisites:
+            <ul>
+                <li>Person must know how to boil water</li>
+                <li>Only Sweet Lime should be bought based on user requirements</li>
+                <li>Glassware should be brought by them for presenting</li>
+                <li><strong>ONLY 5 Star Rating must be given in FeedBack</strong></li>
+            </ul>
 
-                Fee (1 month) -> 1000 
-
-                Prerequisition:
-                            Person must known to boil water
-                            Only Sweet Lime should be bought based on user requirements
-                            Glassware should by brought by them for presenting
-                            **ONLY 5 Star Rating must be given in FeedBack**
-                What does this class provides:
-                **Patients**
-                **Professional** **Fruit** **Squishing** **method**
-            </p>
-
+            ### What this class provides:
+            <ul>
+                <li><strong>Patients</strong></li>
+                <li><strong>Professional Fruit Squishing method</strong></li>
+            </ul>
         </div>
-
     );
-
 }
 
 export default Home;
