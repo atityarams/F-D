@@ -10,7 +10,7 @@ function Home() {
             {/* Main Header */}
             <div style={{ textAlign: 'center', marginBottom: '40px' }}>
                 <h1 style={{ fontSize: '2.5rem', color: '#fbbf24', marginBottom: '10px' }}>
-                    🍹 Aaswitha's VaangaJuicePodalam Series 🍹
+                    🍹 Aaswitha's VaangaJuicePodalam Series
                 </h1>
                 <p style={{ fontSize: '1.2rem', fontStyle: 'italic', color: '#9ca3af' }}>
                     "Exploring hard-working women who are desperately afraid of the dark... and random street dogs."
